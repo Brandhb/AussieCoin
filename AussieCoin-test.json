@@ -1,0 +1,17 @@
+{
+  "name": "AussieCoin",
+  "symbol": "AUC",
+  "description": "This is a custom Solana token for demonstration purposes.",
+  "image": "https://example.com/mytoken-image.png",
+  "decimals": 9,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    }
+  ]
+}
